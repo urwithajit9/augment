@@ -20,7 +20,6 @@ nltk==3.3
 Pillow==5.1.0
 PySocks==1.6.8
 pytz==2014.4
-readability-lxml==0.7
 requests==2.18.4
 six==1.7.2
 urllib3==1.22
