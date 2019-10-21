@@ -16,7 +16,7 @@ JPype1==0.6.3
 jusText==2.2.0
 lxml==4.2.1
 MarkupSafe==0.23
-nltk==3.3
+nltk==3.4.5
 Pillow==5.1.0
 PySocks==1.6.8
 pytz==2014.4
