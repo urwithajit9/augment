@@ -17,7 +17,7 @@ jusText==2.2.0
 lxml==4.2.1
 MarkupSafe==0.23
 nltk==3.3
-Pillow==5.1.0
+Pillow==6.2.0
 PySocks==1.6.8
 pytz==2014.4
 readability-lxml==0.7
